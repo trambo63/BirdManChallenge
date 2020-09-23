@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Drofsnar the Bird-Man\Drofsnar the Bird-Man\bin\Debug\Drofsnar the Bird-Man.exe.config
+C:\ElevenFiftyProjects\Drofsnar the Bird-Man\Drofsnar the Bird-Man\bin\Debug\Drofsnar the Bird-Man.exe
+C:\ElevenFiftyProjects\Drofsnar the Bird-Man\Drofsnar the Bird-Man\bin\Debug\Drofsnar the Bird-Man.pdb
+C:\ElevenFiftyProjects\Drofsnar the Bird-Man\Drofsnar the Bird-Man\obj\Debug\Drofsnar the Bird-Man.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Drofsnar the Bird-Man\Drofsnar the Bird-Man\obj\Debug\Drofsnar the Bird-Man.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Drofsnar the Bird-Man\Drofsnar the Bird-Man\obj\Debug\Drofsnar the Bird-Man.exe
+C:\ElevenFiftyProjects\Drofsnar the Bird-Man\Drofsnar the Bird-Man\obj\Debug\Drofsnar the Bird-Man.pdb
