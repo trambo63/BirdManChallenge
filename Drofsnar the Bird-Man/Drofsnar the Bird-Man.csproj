@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Birds.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="ProgramIU.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
